@@ -11,13 +11,10 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.6",
-<<<<<<< HEAD
     "concurrently": "^9.1.2",
-=======
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
->>>>>>> 7f97ca787785a587af188d8422360c651588ea79
     "node-fetch": "^3.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
@@ -34,29 +31,15 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
-<<<<<<< HEAD
-=======
     "concurrently": "^9.1.2",
->>>>>>> 7f97ca787785a587af188d8422360c651588ea79
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.5"
   }
